@@ -1,0 +1,6 @@
+# downloadScanManga"
+
+```sh
+$ ./downloadScanManga
+```
+
